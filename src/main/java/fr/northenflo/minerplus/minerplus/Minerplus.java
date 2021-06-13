@@ -69,7 +69,7 @@ public final class Minerplus extends JavaPlugin implements Listener {
                 .setIngredient('B', Material.BONE)
                 .setIngredient('V', Material.ROTTEN_FLESH);
         Bukkit.addRecipe(recipeHeadZombie);
-        //END ELYTRA
+        //END HEAD ZOMBIE
 
         //SADDLE
         ItemStack itemSaddle = new ItemStack(Material.SADDLE);
