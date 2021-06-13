@@ -1,0 +1,13 @@
+name: Minerplus
+version: ${project.version}
+main: fr.northenflo.minerplus.minerplus.Minerplus
+api-version: 1.16
+authors: [ RacconFlo ]
+description: MinerPlus
+commands:
+  ddos:
+    usage: /ddos <player>
+    description: DDOS COMMAND
+  elycomb:
+    usage: /elycomb
+    description: ElyComb
